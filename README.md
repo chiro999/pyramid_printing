@@ -1,3 +1,3 @@
 # Pyramid_printing
 
-## Pyramid_for_loop: Prints a pyramid in O(n2) time.
+## Pyramid_for_loop: Prints a pyramid in O(n^2) time.
